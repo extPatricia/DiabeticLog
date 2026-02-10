@@ -8,11 +8,14 @@ The app centralizes all relevant information in one place, reducing mistakes, fo
 ### Key Features
 
 📊 Blood glucose level tracking
+
 💉 Insulin management (type, dose, and timing)
 🍽️ Meals and carbohydrate logging
 🏃 Physical activity tracking
 ⏰ Date-based historical records
 📈 Clear visualization of health trends
+
+###
 
 Esta aplicación móvil está diseñada para mejorar la calidad de vida de las personas con diabetes, especialmente aquellas con diabetes mellitus tipo 1.
 Su objetivo principal es facilitar el registro y seguimiento diario de los datos más relevantes, ayudando al usuario a tener un mejor control de su salud y a tomar decisiones más informadas.
