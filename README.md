@@ -27,3 +27,10 @@ La app centraliza toda la información importante en un solo lugar, reduciendo e
 - Seguimiento de actividad física
 - Historial organizado por fechas
 - Visualización clara de la evolución del usuario
+
+![inicio](https://github.com/user-attachments/assets/5f9b3c86-732f-4eea-b2f7-270c433e10ee)
+![perfil](https://github.com/user-attachments/assets/6f6f49a0-6dfe-406d-80a4-a9372603687a)
+![registro](https://github.com/user-attachments/assets/d5319750-1e93-494e-8a18-cb1c29ca5755)
+![datos](https://github.com/user-attachments/assets/cfcb41f2-6f3a-4420-b157-a723d72fc898)
+
+
